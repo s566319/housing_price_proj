@@ -50,6 +50,11 @@ Year built: Year the property was built
 Zip code: Zip code where the property is located 
 
 Conclusion
+The results of the models are as follows:
+![alt text](image-1.png)
+
+The following pricing model was generated to predict pricing:
+![alt text](image.png)
 
 Limitations of Project
 The analysis is limited to the zip codes included in the dataset.
