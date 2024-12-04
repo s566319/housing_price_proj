@@ -11,6 +11,9 @@ The project's domain is real estate.  It was chosen due to the high interest in 
 ### Keywords
 Data Analytics
 Data Visualization
+Machine learning
+Exploratory Data Analysis (EDA)
+Model Building
 
 ### Table of Contents
 Introduction
